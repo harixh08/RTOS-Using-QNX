@@ -54,7 +54,7 @@ int main(void) {
 ```
 ## Output
 
-![output](images\1.png)
+![output](1.png)
 ---
 
 ## Result
