@@ -54,6 +54,7 @@ int main(void) {
 ```
 ## Output
 
+![](images\Screenshot 2026-03-13 103539.png)
 ---
 
 ## Result
