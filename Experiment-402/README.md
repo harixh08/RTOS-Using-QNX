@@ -169,7 +169,7 @@ got our pulse, the timer must have expired
 ---
 
 # Output
-![alt text](1-0.png)
+<img width="1448" height="285" alt="image" src="https://github.com/user-attachments/assets/59940e3e-857a-48e3-849a-bff97f6ae6b1" />
 
 ---
 
