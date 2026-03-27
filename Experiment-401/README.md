@@ -102,6 +102,8 @@ Interrupt received! , Count is 4
 *(The counter increases each time the interrupt occurs.)*
 
 ---
+## Output
+<img width="1447" height="643" alt="image" src="https://github.com/user-attachments/assets/0a7d8da6-0d5e-479d-9396-54bc084d4632" />
 
 # Result
 
